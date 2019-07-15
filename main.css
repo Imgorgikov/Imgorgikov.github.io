@@ -31,7 +31,7 @@
                     	-webkit-background-size: cover;
                     }
                     body{
-                    	background-color: Gold;
+                    	background-color: turquoise;
                     }
                     .heading{
                     	font-size: 48px;
@@ -44,8 +44,18 @@
                     text-decoration: none;
                     color:blue;
                     font-size: 20px;
+                    font-family: 'Pacifico', cursive;
+                    width: 95%;
+                    margin: auto;
+                    text-align: center;
                     display: inline-block;
                     margin: 20px 0;
-                    border-bottom: 1\px solid transparent;
+                    border-bottom: 1px solid transparent;
                     transition: 1s ease-in;
-                    text-align: center;
+
+                    }
+                    img{
+                     max-width: 100%;
+                     height: auto;
+                     display: block;                  
+                    }

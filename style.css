@@ -7,30 +7,39 @@
 				color: 4811AE;
 				font-family: 'Pacifico', cursive;
 				font-size: 50px;
+				text-align: center;
 			    }
 
 			    div{
-                width: 80%;
+                width:45%;
                 margin:auto;
                 padding: 50px;
                 background-color: gold;
                 box-shadow: 0 0 20px 10px rgba(0,0,0,0.1);
+                
+
 			    }
 			    
 			    h1{
 		        color: 4811AE;
 				font-family: 'Pacifico', cursive;
 				font-size: 50px;
+				text-align: center;
 		        }
 		        
 		        a{
 		        	text-decoration: none;
 		        	color:blue;
 		        	font-size: 20px;
+		        	font-family: 'Pacifico', cursive;
+		        	width: 95%;
+		        	margin: auto;
+		        	text-align: center;
 		        	display: inline-block;
 		        	margin: 20px 0;
-		        	border-bottom: 1\px solid transparent;
+		        	border-bottom: 1px solid transparent;
 		        	transition: 1s ease-in;
+
 
 		        }
 
@@ -46,6 +55,13 @@
 		        a:hover{
 		        	border-bottom-color: red; 
 		        }
+		       #kryto{
+		       	     max-width: 100%;
+                     height: auto;
+                     display: block;
+		       }
+		        
+
 
 
 		     
