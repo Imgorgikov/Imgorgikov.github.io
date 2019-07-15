@@ -22,6 +22,7 @@
 				font-family: 'Pacifico', cursive;
 				font-size: 50px;
 		        }
+		        
 		        a{
 		        	text-decoration: none;
 		        	color:blue;
@@ -39,7 +40,7 @@
                      display: block;
 		        }
 		        body{
-		        	background-color: Gold;
+		        	background-color: turquoise;
 
 		        }
 		        a:hover{

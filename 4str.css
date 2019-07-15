@@ -9,8 +9,8 @@
 	opacity: 0.3;
 	width: 75%;
 	height: auto;
-	font-size: 30px;
-	font-weight: 100;
+	font-size: 100px;
+	font-weight: 500px;
 	transform: scale(0.3);
 	transition: 3s all;
 }
@@ -25,11 +25,54 @@
     max-width: 100%;
     width: calc(100%);
     height: calc(100%);
-	background-image: url(img/img12.jpg);
+	background-image: url(img/img11.jpg);
 	background-position: center;
     -webkit-background-size: cover;
     display: block;
 
 }
+#test2{
+	background-color: gold;
+	color: red;
+	padding: 15px;
+	margin: 15px;
+	border: 1px solid black;
+	border-radius: 10px;
+	text-align: center;
+	opacity: 0.3;
+	width: 75%;
+	height: auto;
+	font-size: 100px;
+	font-weight: 500px;
+	transform: scale(0.3);
+	transition: 3s all;
+}
+#test2:hover{
+	opacity: 1;
+	background-color:pink;
+	transform: rotate(60deg)scale(0.3s); 
+}
+#test3{
+	background-color: gold;
+	color: red;
+	padding: 15px;
+	margin: 15px;
+	border: 1px solid black;
+	border-radius: 10px;
+	text-align: center;
+	opacity: 0.3;
+	width: 75%;
+	height: auto;
+	font-size: 100px;
+	font-weight: 500px;
+	transform: scale(0.3);
+	transition: 3s all;
+}
+#test3:hover{
+	opacity: 1;
+	background-color:black;
+	transform: rotate(60deg)scale(0.3s); 
+}
+
 
 
